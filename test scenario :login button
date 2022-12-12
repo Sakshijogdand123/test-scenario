@@ -1,0 +1,3 @@
+verify login button is visible to user.
+verify user should be able to click the login button.
+verify when user click on button colour should be change and navigate next page.
